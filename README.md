@@ -19,7 +19,7 @@ Discussion with a focus on deep learning concepts from Andrew Ng's deep learning
 提问描述越详细用心，相信你会越容易自己找到答案，我也会非常努力一起探讨的！
 
 ## 问题发布
-欢迎大家来[DL concepts discussion](https://github.com/EmbraceLife/DL-concepts-discussion/edit/master/README.md)来探讨问题；
+欢迎大家来[DL concepts discussion](https://github.com/EmbraceLife/DL-concepts-discussion)来探讨问题；
 可以通过issues来提问，探讨，更新动态等等，很方便！（谢谢小伙伴们的提示）
 
 ## 问答总结
