@@ -19,16 +19,13 @@ Discussion with a focus on deep learning concepts from Andrew Ng's deep learning
 提问描述越详细用心，相信你会越容易自己找到答案，我也会非常努力一起探讨的！
 
 ## 问题发布
-建议大家将问题通过知乎来提，因为可以修改，可以编辑公式，大家都可以参与回答，编辑探讨都比较灵活（虽然我更支持B站，但什么时候B站专栏也能这么灵活就好啦！）
-
-如果是参与讨论的同学，在知乎回答讨论时请@我，这样我才会知道去看
+欢迎大家来[DL concepts discussion](https://github.com/EmbraceLife/DL-concepts-discussion/edit/master/README.md)来探讨问题；
+可以通过issues来提问，探讨，更新动态等等，很方便！（谢谢小伙伴们的提示）
 
 ## 问答总结
 当一个概念或问题，有所收获时，我们可以共建一个专栏（等第一个问题回答结束时），愿意整理问题和回答的小伙伴，可以将整理好的文章投稿到专栏里
 
 
-
 初步设想，欢迎大家探讨尝试！
-作者：shendusuipian
-https://www.bilibili.com/read/cv363430
-出处： bilibili
+
+
