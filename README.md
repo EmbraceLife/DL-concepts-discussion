@@ -9,7 +9,7 @@ Discussion with a focus on deep learning concepts from Andrew Ng's deep learning
 
 ## 讨论范围
 目前主要推荐吴恩达深度学习课程所涵盖的所有内容的探讨（李宏毅课程暂不推荐讨论）
-吴恩达深度学习全课程笔记链接（https://zhuanlan.zhihu.com/p/31645196）
+[吴恩达深度学习全课程笔记](https://zhuanlan.zhihu.com/p/31645196)
 
 ## 问题描述要求
 提供问题或不理解的概念所在的吴恩达深度学习原视频和我的笔记视频的链接和时间点（方便大家查看具体知识和笔记的背景内容）
